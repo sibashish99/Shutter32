@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-**sibashish99/sibashish99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # I'm [Shutter]) 👋 👨‍💻
 
 This is a Portfolio templete .
